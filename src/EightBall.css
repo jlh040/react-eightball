@@ -1,6 +1,13 @@
 .EightBall {
-    width: 30%;
+    height: 210px;
+    width: 210px;
     color: white;
     display: flex;
-    justify-content: center;    
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.EightBall-message {
+    font-weight: bold;
 }
