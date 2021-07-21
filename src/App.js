@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
 import EightBall from './EightBall';
+import answers from './helpers';
 
 function App() {
   return (
     <div className="App">
-      <EightBall />
+      <EightBall answers={answers} />
     </div>
   );
 }
