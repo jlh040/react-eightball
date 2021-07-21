@@ -1,3 +1,7 @@
+# Functionality
+
+This is a [**Springboard**](https://www.springboard.com/) exercise that has allowed me to get some practice working with [state in React](https://reactjs.org/docs/hooks-state.html). You simply ask a question, click on the ball, and a message will pop up with an answer to your question, along with a new color.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
